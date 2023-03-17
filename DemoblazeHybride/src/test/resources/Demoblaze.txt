@@ -1,0 +1,28 @@
+INFO	2023-01-19 21:48:48,579	0	com.cjc.DB.pages.Register	[main]	Registration successfull
+INFO	2023-01-19 21:48:51,698	3119	com.cjc.DB.pages.Login	[main]	chetan1611
+INFO	2023-01-19 21:48:51,698	3119	com.cjc.DB.pages.Login	[main]	pass@123
+INFO	2023-01-19 21:48:51,698	3119	com.cjc.DB.pages.Login	[main]	login successfull
+ERROR	2023-01-19 21:49:04,073	15494	com.cjc.DB.pages.Addtocart	[main]	ERROR
+WARN	2023-01-19 21:49:04,074	15495	com.cjc.DB.pages.Addtocart	[main]	Warning
+INFO	2023-01-19 21:49:04,074	15495	com.cjc.DB.pages.Addtocart	[main]	purchase item added successfully
+INFO	2023-01-19 21:49:22,034	33455	com.cjc.DB.pages.Orderplace	[main]	Screenshot taken successfull
+INFO	2023-01-19 21:49:24,099	35520	com.cjc.DB.pages.Orderplace	[main]	Thank you for your purchase!
+INFO	2023-01-19 21:49:29,153	40574	com.cjc.DB.pages.Orderplace	[main]	Id: 6177626
+Amount: 0 USD
+Card Number: 1234123445676789
+Name: chetan
+Date: 19/0/2023
+INFO	2023-01-19 21:59:13,714	0	com.cjc.DB.pages.Register	[main]	Registration successfull
+INFO	2023-01-19 21:59:16,841	3127	com.cjc.DB.pages.Login	[main]	chetan1611
+INFO	2023-01-19 21:59:16,841	3127	com.cjc.DB.pages.Login	[main]	pass@123
+INFO	2023-01-19 21:59:16,842	3128	com.cjc.DB.pages.Login	[main]	login successfull
+ERROR	2023-01-19 21:59:30,969	17255	com.cjc.DB.pages.Addtocart	[main]	ERROR
+WARN	2023-01-19 21:59:30,970	17256	com.cjc.DB.pages.Addtocart	[main]	Warning
+INFO	2023-01-19 21:59:30,970	17256	com.cjc.DB.pages.Addtocart	[main]	purchase item added successfully
+INFO	2023-01-19 21:59:46,246	32532	com.cjc.DB.pages.Orderplace	[main]	Screenshot taken successfull
+INFO	2023-01-19 21:59:48,314	34600	com.cjc.DB.pages.Orderplace	[main]	Thank you for your purchase!
+INFO	2023-01-19 21:59:53,375	39661	com.cjc.DB.pages.Orderplace	[main]	Id: 2986600
+Amount: 790 USD
+Card Number: 1234123445676789
+Name: chetan
+Date: 19/0/2023
